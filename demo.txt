@@ -1,3 +1,2 @@
 This is the first line from master
 This is the first line from newBranch
-This is a mistake in newBranch
